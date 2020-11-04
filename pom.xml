@@ -77,6 +77,13 @@
 
 
         <dependency>
+            <groupId>com.intuit.karate</groupId>
+            <artifactId>karate-testng</artifactId>
+            <version>${karate.version}</version>
+        </dependency>
+
+
+        <dependency>
             <groupId>com.github.tomakehurst</groupId>
             <artifactId>wiremock-standalone</artifactId>
             <version>2.18.0</version>
